@@ -2,6 +2,8 @@
 
 This is only sample of my personal projects. You can use it as your project for learning purposes.
 
+- Study Case: Email Classifier
+
 ## Links
 
 1. Model: llama3-8b-8192.
